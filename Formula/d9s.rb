@@ -2,7 +2,7 @@ class D9s < Formula
   desc "K9s-style terminal UI for local Docker and Docker Compose"
   homepage "https://github.com/calmacroi/d9s"
   url "https://github.com/calmacroi/d9s/archive/refs/tags/0.1.1.tar.gz"
-  sha256 "de0aae1a3bbd1aa7147466492461b7d03d8d4ce75c7babaf0e9a1cb77aa66a6d"
+  sha256 "171f9c23d8258a7925951a7d825fa0272357eca552a07fa5856170bb48169e4e"
   license "Apache-2.0"
   head "https://github.com/calmacroi/d9s.git", branch: "main"
 
